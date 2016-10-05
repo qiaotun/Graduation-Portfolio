@@ -1,6 +1,7 @@
 # Graduation-Portfolio
 
 This is my gradutaion portfolio. It contains three projects:
+
 1. Forecast of Electricity Wholesale Price in Victoria, Australia
 2. Fast False Selection Rate Variable Selection
 3. Recreation of the Police Precinct Boundaries on the Manhattan Island
